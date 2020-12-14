@@ -42,7 +42,7 @@ body {
 h1,
 .h1 {
     position   : relative;
-    font-family: montserrat, sans-serif;
+    font-family: 'PT Mono', monospace;;
     font-size  : 4.125rem;
     font-weight: 700;
     line-height: 1.05;
@@ -80,7 +80,7 @@ h1 .mark span,
 h2,
 .h2 {
     position   : relative;
-    font-family: montserrat, sans-serif;
+    font-family: 'PT Mono', monospace;;
     font-weight: 700;
     font-size  : 2.1rem;
     line-height: 1.2;
@@ -116,7 +116,7 @@ h2 .mark span,
 
 h3,
 .h3 {
-    font-family: montserrat, sans-serif;
+    font-family: 'PT Mono', monospace;;
     font-weight: 700;
     font-size  : 1.925rem;
     line-height: 1.25;
@@ -126,7 +126,7 @@ h3,
 
 h4,
 .h4 {
-    font-family: montserrat, sans-serif;
+    font-family: 'PT Mono', monospace;;
     font-weight: 600;
     font-size  : 1.325rem;
     line-height: 1.2;
@@ -136,7 +136,7 @@ h4,
 
 h5,
 .h5 {
-    font-family: montserrat, sans-serif;
+    font-family: 'PT Mono', monospace;;
     font-weight: 600;
     font-size  : 1.125rem;
     line-height: 1.2;
@@ -146,7 +146,7 @@ h5,
 
 h6,
 .h6 {
-    font-family   : montserrat, sans-serif;
+    font-family   : 'PT Mono', monospace;;
     font-weight   : 700;
     font-size     : .9rem;
     letter-spacing: 1px;
@@ -279,7 +279,7 @@ label.error {
 }
 
 .btn {
-    font-family       : montserrat, sans-serif;
+    font-family       : 'PT Mono', monospace;;
     position          : relative;
     display           : inline-block;
     border            : .2em solid #23a592;
@@ -539,7 +539,7 @@ ion-icon {
 
 .navbar-brand {
     float       : left;
-    font-family : montserrat, sans-serif;
+    font-family : 'PT Mono', monospace;;
     font-size   : 1.875rem;
     font-weight : 700;
     color       : #fff;
@@ -599,7 +599,7 @@ ion-icon {
 }
 
 .navbar-nav-desctop {
-    font-family   : montserrat, sans-serif;
+    font-family   : 'PT Mono', monospace;;
     font-size     : .8rem;
     text-transform: uppercase;
     font-weight   : 400;
@@ -980,7 +980,7 @@ ion-icon {
 }
 
 .experience {
-    font-family: montserrat, sans-serif;
+    font-family: 'PT Mono', monospace;;
     font-weight: 600
 }
 
@@ -1358,7 +1358,7 @@ footer a:hover {
 }
 
 footer ul {
-    font-family   : montserrat, sans-serif;
+    font-family   : 'PT Mono', monospace;;
     text-transform: uppercase;
     font-size     : .8rem;
     letter-spacing: 1px

@@ -11,7 +11,7 @@ body {
     font-family: work sans, sans-serif;
     font-size  : 1rem;
     line-height: 1.625em;
-    color      : #767676
+    color      : black
 }
 
 ::-webkit-scrollbar {
@@ -482,7 +482,7 @@ ion-icon {
 }
 
 .text-gray {
-    color: #767676 !important
+    color: black !important
 }
 
 .text-primary {
@@ -633,7 +633,7 @@ ion-icon {
 
 .navbar-nav-desctop>li>.active,
 .navbar-nav-desctop>li:hover>a {
-    color: #767676
+    color: black
 }
 
 .navbar-nav-desctop li ul {

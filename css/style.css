@@ -489,6 +489,12 @@ ion-icon {
     color: #23a592 !important
 }
 
+.active {
+    border: 1px solid #23a691 !important;
+    border-radius: 7px !important;
+    padding: 0px 15px !important;
+}
+
 .navbar {
     position     : absolute;
     z-index      : 10;

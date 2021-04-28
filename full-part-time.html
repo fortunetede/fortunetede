@@ -10,6 +10,21 @@
 <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
 <title>Fortune Tede </title>
 
+<script>
+    (function(d,t) {
+      var BASE_URL="https://app.chatwoot.com";
+      var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=BASE_URL+"/packs/js/sdk.js";
+      s.parentNode.insertBefore(g,s);
+      g.onload=function(){
+        window.chatwootSDK.run({
+          websiteToken: 'SBiy23qAQtk4F6yeXvJmGJtb',
+          baseUrl: BASE_URL
+        })
+      }
+    })(document,"script");
+  </script>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3FQ6P89QW7"></script>
 <script>
@@ -48,20 +63,7 @@
     </script> -->
 <!-- End of Async Drift Code -->
 
-<script>
-    (function(d,t) {
-      var BASE_URL="https://app.chatwoot.com";
-      var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-      g.src=BASE_URL+"/packs/js/sdk.js";
-      s.parentNode.insertBefore(g,s);
-      g.onload=function(){
-        window.chatwootSDK.run({
-          websiteToken: 'SBiy23qAQtk4F6yeXvJmGJtb',
-          baseUrl: BASE_URL
-        })
-      }
-    })(document,"script");
-  </script>
+
 </head>
 
 <body style="font-family: 'Roboto Mono', monospace;">

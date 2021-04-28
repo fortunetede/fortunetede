@@ -10,6 +10,22 @@
 <link rel="shortcut icon" href="img/logo.png" type="image/x-icon">
 <title>Fortune Tede </title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script>
+    (function(d,t) {
+      var BASE_URL="https://app.chatwoot.com";
+      var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+      g.src=BASE_URL+"/packs/js/sdk.js";
+      s.parentNode.insertBefore(g,s);
+      g.onload=function(){
+        window.chatwootSDK.run({
+          websiteToken: 'SBiy23qAQtk4F6yeXvJmGJtb',
+          baseUrl: BASE_URL
+        })
+      }
+    })(document,"script");
+  </script>
+  
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3FQ6P89QW7"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
@@ -53,21 +69,8 @@
   </script>
   <script data-cfasync="false" type="text/javascript" src="https://uncutlab.user.com/widget.js"></script>
 
-  <script>
-    (function(d,t) {
-      var BASE_URL="https://app.chatwoot.com";
-      var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-      g.src=BASE_URL+"/packs/js/sdk.js";
-      s.parentNode.insertBefore(g,s);
-      g.onload=function(){
-        window.chatwootSDK.run({
-          websiteToken: 'SBiy23qAQtk4F6yeXvJmGJtb',
-          baseUrl: BASE_URL
-        })
-      }
-    })(document,"script");
-  </script>
   
+
 </head>
 
 <body style="font-family: 'PT Mono', monospace;">

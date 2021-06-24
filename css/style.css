@@ -225,8 +225,8 @@ textarea.form-control {
     padding-left      : 22px;
     color             : #343434;
     background-color  : transparent;
-    border            : 0;
-    border-bottom     : 1px solid #c3c3c3;
+    /* border            : 0; */
+    border     : 1px solid #2daa96;
     -webkit-box-shadow: none;
     box-shadow        : none;
     -webkit-appearance: none;
@@ -283,7 +283,7 @@ label.error {
     position          : relative;
     display           : inline-block;
     border            : .2em solid #23a592;
-    border-radius     : 30px;
+    /* border-radius     : 30px; */
     padding           : 1.2em 2.4em 1.15em;
     font-size         : .875em;
     color             : #fff;

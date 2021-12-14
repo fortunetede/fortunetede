@@ -7,3 +7,6 @@ I currently work @ [Lastmal Inc.](https://lastmal.com/) as a remote snr. backend
 ##### Want to get in touch with me? 
 Send me a DM on [Twitter](https://twitter.com/tedefortune) / [Instagram](https://www.instagram.com/fortunetede/) or email me business@fortunetede.com. You can also visit my [website](https://fortunetede.com )
 
+## 📈 GitHub Stats 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fortunetede)](https://github.com/fortunetede)

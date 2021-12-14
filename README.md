@@ -1,4 +1,4 @@
-## Hey there, It's Fortune here
+## Hi there 👋
 
 ### Your current annoying Backend Engineer focused on Django REST Framework.
 

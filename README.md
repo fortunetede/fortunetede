@@ -14,9 +14,14 @@ My Stack<br/><br/>
   <img src="https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=django&logoColor=092d1f" />
 </p>
 
+
+
+## 📈 GitHub Stats 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fortunetede)](https://github.com/fortunetede)
+
+
 <p>
-  
-  Social Links<br/><br/> 
   <a href="https://www.linkedin.com/in/fortunetede/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -26,12 +31,4 @@ My Stack<br/><br/>
   <a href="https://twitter.com/_fortunetede">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
-
-## 📈 GitHub Stats 
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fortunetede)](https://github.com/fortunetede)
-
-
-

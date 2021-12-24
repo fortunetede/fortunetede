@@ -14,7 +14,7 @@ My Stack<br/><br/>
   <img src="https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=django&logoColor=092d1f" />
 </p>
 
-<p >
+<p>
   
   Social Links<br/><br/> 
   <a href="https://www.linkedin.com/in/fortunetede/">

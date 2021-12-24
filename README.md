@@ -1,7 +1,5 @@
 
-<h2 align='center'> 
-  Hi there 👋  
-</h2>
+<h2> Hi there 👋  </h2>
 
 <h5> 
   I'm a Backend Engineer.

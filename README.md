@@ -4,11 +4,11 @@
 </h2>
 
 <h5> 
-  Your current annoying Backend Engineer focused on Django REST Framework. 
+  I'm a Backend Engineer.
 </h5>
 
 <p>
-My Stack<br/><br/>
+💻 My Stack<br/><br/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=f7ca3e" />
   <img src="https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=django&logoColor=092d1f" />

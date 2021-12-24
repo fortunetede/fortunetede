@@ -1,10 +1,8 @@
+
+<p align='center'>
 ## Hi there 👋
 
 ### Your current annoying Backend Engineer focused on Django REST Framework.
-
-
-<p align='center'>
-  
   
   <a href="https://www.linkedin.com/in/fortunetede/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />

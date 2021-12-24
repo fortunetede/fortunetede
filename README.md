@@ -3,20 +3,20 @@
   Hi there 👋  
 </h2>
 
-<h5 align='center'> 
+<h5> 
   Your current annoying Backend Engineer focused on Django REST Framework. 
 </h5>
 
-<p align='center'>
-  💻 My Stack<br/><br/>
+<p>
+My Stack<br/><br/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=f7ca3e" />
   <img src="https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=django&logoColor=092d1f" />
 </p>
 
-<p align='center'>
+<p >
   
-  Social Links: 
+  Social Links<br/><br/> 
   <a href="https://www.linkedin.com/in/fortunetede/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;

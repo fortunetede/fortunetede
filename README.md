@@ -4,6 +4,9 @@
 <h5> 
   I'm a Backend Engineer.
 </h5>
+<p>
+  Skilled and motivated software engineer with 5 years of experience and a track record in web application development, external system integration, and automation. Good experience in API testing and strives to master the art of software engineering by combining sharp software skills with product and business understanding. 
+ </p>
 
 <p>
 💻 My Stack<br/><br/>
